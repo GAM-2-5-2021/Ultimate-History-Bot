@@ -7,4 +7,4 @@ async def on_ready():
 @client.command()
 async def Borodino(ctx):
     await ctx.send("Bitka kod Borodina se dogodila 1813. godine")
-client.run('ODQzNDc4NzgzNDU3ODg2MjA5.YKEc1Q.k4OGZRRjHu9ucX1BxV1BsQ88zxQ')
+client.run('token')
