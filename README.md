@@ -3,3 +3,6 @@ Discord bot koji pozivom komande daje informaciju o određenom povjesnom događa
 
 Ovaj bot je namjenjen osobe kojima treba brza informacija o nečemu vrlo brzo ,a nemaju pristup Wikipediji.
 Učenici će ga moći koristiti pri učenju zbog brzine, sažetosti i pristupačnosti
+
+
+Screencast: https://drive.google.com/file/d/1D_vv-DIiY0O6ar7j-zGnCdMANm1_jFlD/view?usp=sharing
